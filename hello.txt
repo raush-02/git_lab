@@ -1,1 +1,2 @@
 Welcome to Git
+Learing Git basics
